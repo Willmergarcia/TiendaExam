@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background: url(/imagenes/fondotienda.jpg);
+    background: url(../imagenes/fondotienda.jpg);
     background-size:  100%;
 }
 hgroup,h1,h2,h4, thead, tr{
